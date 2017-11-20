@@ -1,0 +1,6 @@
+[submodule "lib/pixie"]
+	path = lib/pixie
+	url = https://github.com/usmanhalalit/pixie.git
+[submodule "lib/opauth"]
+	path = lib/opauth
+	url = https://github.com/opauth/opauth.git
